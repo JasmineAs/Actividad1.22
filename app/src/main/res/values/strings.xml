@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Actividad1.2</string>
+    <string name="name">Nombre</string>
+    <string name="button">Enviar</string>
+    <string name="TV2">Nombre</string>
+    <string name="TV1">Ingrese datos</string>
+    <string name="button2">Regresar</string>
+</resources>
